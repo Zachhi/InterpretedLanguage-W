@@ -8,14 +8,8 @@ module WParser ( parse,
     import Control.Monad (liftM, ap)
 
 
-   -- Hope this can help y'all: I'd say first start with parsing literal number and variable name first, 
-   -- meaning if given a string like "123" or "a" how would y'all extract the number and such in the 
-   -- string to turn those into Val (VInt 123) and Var "a".
 
-   -- Same for the comparison expressions. For example given "a < b", how would you parse it so that you can tell the interpreter to do eval (Less a b)
-   -- The piece of code in the parsing guidance sort of like a template on how to implement +-*/ operations (hint: And Or logic expressions are in some way similar to plus and multiply)
 
-  --  your parser turns something like
   --  var x = 10;
   --  x = 5;
   --  into
