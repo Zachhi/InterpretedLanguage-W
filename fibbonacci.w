@@ -1,4 +1,5 @@
-var n = 12; //this will return the fibbonacci number of 10
+ //this program will return the fibbonacci number of var n
+var n = 12;
 
 var a = 0;
 var b = 1;
@@ -19,4 +20,8 @@ else
         i = i + 1;
     }
 }
+print "The fibbonacci number of ";
+print n;
+print " is ";
 print b;
+print "\n";
