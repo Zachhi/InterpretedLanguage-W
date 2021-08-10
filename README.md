@@ -1,5 +1,5 @@
 # InterpretedLanguage-W
-An interpreted language, "W", created using Haskell. Haskell parses and interprets files with the `.w` extension and returns the output that W should give.
+An interpreted language, "W", created using Haskell. Haskell parses and interprets files with the `.w` extension and returns the output that W should give, depending on W's grammar and rules
 
 ## About
 
