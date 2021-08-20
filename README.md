@@ -11,7 +11,7 @@ The fibbonacci.w and testW.w are only there to give you an example of how to wri
 
 https://www.youtube.com/watch?v=HfGjAJHtD5w
 
-## Gramar
+## Grammar
 
 * var x; to declare a variable
 * var x = 5; to declare and assign a variable, or x = 5; to just assign a variable
